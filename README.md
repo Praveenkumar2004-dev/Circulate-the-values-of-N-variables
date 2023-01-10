@@ -18,7 +18,7 @@ Using the slicing concept rotate the list
 print the statement
 
 ## Program:
-
+```
 #Program to circulate N values.
 #Developed by: praveen kumar s
 #RegisterNumber:22004035
@@ -27,7 +27,7 @@ def circulate():
     n=int(input())
     c=a[n:]+a[:n]
     print("After circulating the values are:",c)
-
+```
 ## Output:
 ![images](./circulate.png)
 
